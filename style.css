@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+button{
+    all: unset;
+    transition: 1s;
+}
+
+.header .minAndMaxBtnContainer button:hover{
+   padding-right:5px;
+   background-color: blue;
+  
+
+}
