@@ -19,3 +19,15 @@ button{
   
 
 }
+
+.standardTool{
+    border: solid;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.standardTool button{
+    padding-right: 10px;
+   
+}
